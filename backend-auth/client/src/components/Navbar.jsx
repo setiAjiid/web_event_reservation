@@ -29,9 +29,7 @@ const Navbar = () => {
             alt="Logo"
             className="max-h-10 w-auto object-contain rounded-full"
           />
-          <span className="text-xl font-semibold text-white-800">
-            FrenStevDims
-          </span>
+          <span className="text-xl font-semibold text-white-800">FSD</span>
         </Link>
       </div>
       <div

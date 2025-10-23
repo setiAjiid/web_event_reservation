@@ -69,7 +69,7 @@ const Profile = () => {
         <div className="bg-black/80 border border-gray-800 rounded-2xl shadow-lg overflow-hidden">
           {/* top area with avatar */}
           <div className="p-6 flex items-center gap-4 bg-black/90">
-            <div className="h-20 w-20 rounded-full bg-gradient-to-r from-indigo-500 to-purple-500 flex items-center justify-center shadow-lg">
+            <div className="h-20 w-20 rounded-full bg-linear-to-r from-indigo-500 to-purple-500 flex items-center justify-center shadow-lg">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 className="h-10 w-10 text-white"
